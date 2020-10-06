@@ -4,7 +4,7 @@ layout: default
 # Table of Contents:
 - [Summary](#summary)
 - [Taoism Before Revolution](#taoism-before-revolution)
-- [The Second Century A.D.: Revolution](#the-second-century-ad--revolution)
+- [The Second Century A.D.: Revolution](#the-second-century-ad-revolution)
 - [The Yellow Turban Movement](#the-yellow-turban-movement)
   * [Impacts on Religion](#impacts-on-religion)
     + [Curing diseases](#curing-diseases)
