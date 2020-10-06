@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Navigation**
+# Table of Contents
 - [Summary](#summary)
 - [Taoism Before Revolution](#taoism-before-revolution)
 - [The Second Century A.D.: Revolution](#the-second-century-ad-revolution)
