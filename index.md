@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Table of Contents:
+# Table of Contents
 - [Summary](#summary)
 - [Taoism Before Revolution](#taoism-before-revolution)
 - [The Second Century A.D.: Revolution](#the-second-century-ad-revolution)
@@ -52,3 +52,5 @@ Along with its contributions to the Taoist formation of religion, the Yellow Tur
 [^10]: Levy, “Yellow Turban Religion and Rebellion at the End of Han,” 217-218.
 [^11]: Robinet and Brooks, Taoism: Growth of a Religion, 61. 
 [^12]: Levy, “Yellow Turban Religion and Rebellion at the End of Han,” 217.
+
+*Don't know what this site is? Click [here](about.html).*
