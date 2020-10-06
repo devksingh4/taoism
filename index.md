@@ -19,5 +19,5 @@ The Han dynasty became very corrupt at the end of the second century A.D. due to
 [^3]: Ibid., 6.
 [^4]: Ibid., 189.
 [^5]: Robinet, Isabelle, and Phyllis Brooks. Taoism: Growth of a Religion (Stanford, Calif: Stanford University Press, 1997), 54.
-[^6]: Ibid.
+[^6]: Ibid., 55.
 [^7]: Howard S. Levy “Yellow Turban Religion and Rebellion at the End of Han,” Journal of the American Oriental Society 76, no. 4 (October 1956): 57. https://doi.org/10.2307/596148.
