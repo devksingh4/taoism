@@ -22,8 +22,8 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         {% if site.author_name %}
-          <br /> <br />
-          <p class="header">By {{ site.author_name }}</p>
+          <br />
+          <p class="header" style="font-weight: bold;">{{ site.author_name }}</p>
         {% endif %}
       </header>
 
