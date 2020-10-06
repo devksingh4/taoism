@@ -1,5 +1,7 @@
 ---
 layout: default
+name: Home
+description: Learn more about Taoism's evolution drom a disorganized philosophy to an organized religion
 ---
 # Table of Contents
 - [Summary](#summary)
