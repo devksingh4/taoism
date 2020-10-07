@@ -1,2 +1,2 @@
-# taoism
+# Taoism
 AWRAP 2020
