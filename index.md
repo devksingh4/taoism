@@ -16,6 +16,7 @@ description: Learn more about Taoism's evolution from a disorganized philosophy 
   * [Impacts on Religion](#impacts-on-religion-1)
     + [Comparison with Established Religion](#comparison-with-established-religion-1)
   * [Impacts on the organized form](#impacts-on-the-organized-form)
+* * *
 # Summary
 The Han dynasty became very corrupt at the end of the second century A.D. due to the excessive powers held by certain families.[^1] To fight this corruption, two primarily Taoist movements (The Yellow Turban movement and the Celestial Masters movement) emerged to fight the Han's corruption. These taoist movements evolved Taoism by developing organization structures and rituals which demonstrated Taoism's evolution from a disorganized philosophy to an organized religion.
 # Taoism Before Revolution
